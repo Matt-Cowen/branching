@@ -35,6 +35,8 @@ a {
 
 h1 {
     margin: 0;
+    position: relative;
+    top: 25%;
 }
 
 .main-header {
