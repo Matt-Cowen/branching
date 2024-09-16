@@ -5,3 +5,16 @@ body {
 h1 {
     color:hotpink
 }
+
+.flex {
+    display: flex;
+    justify-items: space-around;
+}
+
+.nav-bar {
+    list-style-type: none;
+}
+
+li {
+    flex-basis: 250px;
+}
